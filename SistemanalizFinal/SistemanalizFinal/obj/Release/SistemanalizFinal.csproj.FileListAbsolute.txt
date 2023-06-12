@@ -1,0 +1,8 @@
+C:\Users\btk02\Desktop\Asp\SistemanalizFinal\SistemanalizFinal\obj\Release\SistemanalizFinal.csproj.AssemblyReference.cache
+C:\Users\btk02\Desktop\Asp\SistemanalizFinal\SistemanalizFinal\obj\Release\SistemanalizFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\btk02\Desktop\Asp\SistemanalizFinal\SistemanalizFinal\obj\Release\SistemanalizFinal.AnaSayfa.resources
+C:\Users\btk02\Desktop\Asp\SistemanalizFinal\SistemanalizFinal\obj\Release\SistemanalizFinal.Oyuncular.resources
+C:\Users\btk02\Desktop\Asp\SistemanalizFinal\SistemanalizFinal\obj\Release\SistemanalizFinal.Oyun.resources
+C:\Users\btk02\Desktop\Asp\SistemanalizFinal\SistemanalizFinal\obj\Release\SistemanalizFinal.Properties.Resources.resources
+C:\Users\btk02\Desktop\Asp\SistemanalizFinal\SistemanalizFinal\obj\Release\SistemanalizFinal.csproj.GenerateResource.cache
+C:\Users\btk02\Desktop\Asp\SistemanalizFinal\SistemanalizFinal\obj\Release\SistemanalizFinal.csproj.CoreCompileInputs.cache
